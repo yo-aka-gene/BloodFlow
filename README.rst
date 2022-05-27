@@ -1,7 +1,7 @@
 ===
 BloodFlow
 ===
-血液検査所見をレポートにまとめる際に、文字起こしを補助するためのWebアプリ
+Online app to transcript hematologial findings in medical records
 
 
 * Free software: MIT license
